@@ -474,6 +474,7 @@ PYTHON_OBJS=	\
 		Python/importdl.o \
 		Python/index_pool.o \
 		Python/initconfig.o \
+		Python/interp.o \
 		Python/interpconfig.o \
 		Python/instrumentation.o \
 		Python/instruction_sequence.o \

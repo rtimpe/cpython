@@ -5,7 +5,7 @@
 #define Py_BUILD_CORE_MODULE
 #endif
 
-#include "../../Python/ceval.h"
+#include "../../Python/interp.h"
 
 #include "../../Python/ceval_macros.h"
 
